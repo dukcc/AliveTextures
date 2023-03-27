@@ -1,0 +1,29 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:bevietnam.ttf",
+            "shift": [0.0, 0.0],
+            "size": 11.8,
+            "oversample": 10.0
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/alive.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": [
+                "\uEff1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/duckyhq.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": [
+                "\uEff2"
+            ]
+        }
+    ]
+}
