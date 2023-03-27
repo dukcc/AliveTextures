@@ -16,11 +16,11 @@ Alive textures is a simple Minecraft resourcepack, made by dukc at DuckyHQ. It c
 ## Version
 
 - Version: 0.2 Beta
-- Minecraft Version: 1.19.3 (Will stay on 1.19.3 until fully released.)
+- Minecraft Version: Only for **1.19.3** (Will stay on 1.19.3 until fully released.)
 
 ## Download
 
-Get the latest release (0.2 Beta) [here](#).
+Get the latest release (0.2 Beta) [here](https://github.com/dukcc/AliveTextures/releases/tag/v.0.2-beta).
 
 ## Images
 
