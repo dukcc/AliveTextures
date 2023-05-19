@@ -1,5 +1,10 @@
 ![Banner](/images/banner.png)
 
+# This res is not being updated anymore.
+
+I'm moving Alive Textures to [Modrinth](https://modrinth.com/resourcepack/alive-textures)
+https://modrinth.com/resourcepack/alive-textures
+
 ## Info
 
 Alive textures is a simple Minecraft resourcepack, made by dukc at DuckyHQ. It changes the GUI, building blocks, and more.
